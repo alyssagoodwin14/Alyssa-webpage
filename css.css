@@ -14,19 +14,21 @@
 /* Put body attributes here */
 
 body { 
-background-color: HotPink;
+background-color: PaleVioletRed;
 color: white;
 font-family: Arial, Helvetica, Sans-Serif;  
 }
 
 h1 { 
-font-size: 30pt;
-text-decoration:underline;
+color: Teal;
+font-size: 42pt;
 text-align: center;
-}
+background-color: white;}
 
-figure { 
-float: left; 
-}
+img  { float: left; }
+
+p {  background-color: Teal;}
+
+
 
 
