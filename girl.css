@@ -1,0 +1,42 @@
+/*
+* Alyssa Goodwin
+* March 28, 2018
+* CSS Project 
+*/
+
+
+/* The universal selector */
+header {background-color: pink;
+	text-align: center;}
+* {
+
+}
+
+/* Put body attributes here */
+
+h1 { 
+font-family: cursive, ariel;
+font-style: italic; 
+text-decoration: underline;
+}
+
+h2 { 
+font-family: cursive,ariel;
+font-style: italic; 
+text-decoration: underline;
+}
+
+body { 
+background-color: pink;
+color: black;
+font-family: Arial, Helvetica, Sans-Serif;  
+}
+
+
+
+p {  background-color: pink;}
+
+a:hover, a:focus {
+ color: deeppink; 
+ text-decoration: underline; }
+ 
