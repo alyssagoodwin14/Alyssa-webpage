@@ -1,0 +1,29 @@
+/*
+* Alyssa Goodwin
+* May 9, 2018
+* Box Model
+*/
+
+*{margin: 0;
+padding: 0;}
+
+/*here is the body*/
+body {background-color: white; 
+border: 5px dotted black;
+padding: 20px;}
+
+/*here is the main*/
+main {background-color: white; 
+border: 3px solid black;
+padding: 10px;
+padding: 30px;}
+
+/*here is the head*/
+h1 {background-color: white;
+border: 3px dotted black;
+padding: 10px;}
+
+/*here is a paragraph*/
+p {background-color: white;
+border: 3px dotted black;
+padding: 10px;}
