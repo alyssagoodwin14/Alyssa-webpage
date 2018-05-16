@@ -1,0 +1,111 @@
+/*
+* Alyssa Goodwin
+* May 14, 2018
+* Endangered Species Project 
+*/
+
+/* the universal selector*/
+
+*{
+margin:0;
+padding: 0;
+}
+
+/*this is the heading at the top of the page*/
+h1 { 
+font-family: sans-serif, helvetica;
+font-weight: bold;
+color:  black;
+border-bottom: 4px solid green;
+margin: 15px;
+padding:10px;
+font-size: 60pt;
+text-align: center;
+}
+
+/*here is the image at the top of the page*/
+.topimg {
+height: 200px;
+width: 300px;
+padding:2px;
+margin: 20px;
+float: left;
+border: 6px solid green;
+}
+
+/*these are the images in the row of pictures*/
+.img1 {
+height: 130px;
+width: 180px;
+border: 6px dashed green;
+clear: left;
+margin: 15px
+}
+
+.img2 {
+height: 130px;
+width: 180px;
+border:6px dashed green;
+margin: 15px
+}
+
+.img3 {
+height: 130px;
+width: 180px;
+border:6px dashed green;
+margin: 15px
+}
+
+.img4 {
+height: 130px;
+width: 180px;
+border:6px dashed green;
+margin: 15px
+}
+
+.img5 {
+height: 130px;
+width: 180px;
+border:6px dashed green;
+margin: 15px
+}
+
+/*here is the paragraph titles*/
+h3 { 
+font-family: sans-serif, helvetica;
+font-size: 30pt;
+font-weight: bold;
+text-align: center;
+}
+
+/*this is the map*/
+.map {
+height: 200px;
+width: 300px;
+padding:2px;
+margin: 20px;
+float: right;
+border: 6px solid green;
+}
+
+/*this is for all of the paragraphs*/
+p {
+font-size: 125%;
+margin-top: 10px;
+margin-bottom:30px;
+}
+ 
+/*this is the body*/
+body { 
+width: 1200px;
+margin: auto; 
+color: black;
+font-family: Arial, Helvetica, Sans-Serif;  
+text-align: left;
+background-color: #ddff99;
+}
+
+/*this is the footer*/
+footer {
+clear: both;
+border-top: 4px solid green;}
